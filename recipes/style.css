@@ -1,0 +1,26 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+ul{
+    color: rgb(143, 103, 228);
+}
+
+p{
+    color:lightseagreen;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ol{
+    color:chocolate;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    background-color:aquamarine;
+}
+
+* {
+    border:2px solid red;
+}
