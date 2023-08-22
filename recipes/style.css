@@ -1,26 +1,35 @@
 img {
     height: auto;
     width: 500px;
-}
-
-ul{
-    color: rgb(143, 103, 228);
-}
-
-p{
-    color:lightseagreen;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-ol{
-    color:chocolate;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-}
-
-h1{
-    background-color:aquamarine;
+    margin:50px;
+    border: black 2px solid;
 }
 
 * {
-    border:2px solid red;
+    background-color:rgb(165, 192, 244);
 }
+
+.title{
+    text-align:center;
+    background-color:orangered;
+    width:200px;
+    margin:auto;
+    border: black 2px solid;
+}
+
+.recipe-name{
+   text-align:center;
+   background-color:goldenrod;
+   width: 300px;
+   margin:auto;
+   border: black 2px solid;
+}
+
+h3{
+    border: black 2px solid; 
+    text-align:left;
+    margin: auto;
+    display:inline-block;
+    background-color:orange;
+}
+
